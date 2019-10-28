@@ -23,7 +23,7 @@ Because mentors don't have to be people.
 
 **The best mentors when you're starting out are books and courses.**
 
-Why? Because people their pour time and energy into making books and courses. And you can get a lot more from reading their books and courses than from talking to the person who made the book or course.
+Why? Because people pour their time and energy into making books and courses. And you can get a lot more from reading their books and courses than from talking to the person who made the book or course.
 
 You always want to begin with a book or a course.
 
@@ -39,7 +39,7 @@ There are many ways to find people to answer your questions.
 
 The first way I would recommend is to see if there is a community around the book or course you bought.
 
-This community will be the best place for you to ask questions since they people in the community are learning the same things as you are learning. There is more context, and there is a high chance of getting a quality answer.
+This community will be the best place for you to ask questions since the people in the community are learning the same things as you are learning. There is more context, and there is a high chance of getting a quality answer.
 
 People who create courses may also hang out in the community to answer questions.
 
@@ -53,7 +53,7 @@ If you want to learn JavaScript, you can go to https://learnjavascript.today to 
 
 The second way to find people to help is to go to events in your area. When I say events, I mean meetups and conferences.
 
-You can **find link-minded people** and you can become friends with them. It doesn't matter if these people are higher level or lower level compared to you. You can still become friends with them.
+You can **find like-minded people** and you can become friends with them. It doesn't matter if these people are higher level or lower level compared to you. You can still become friends with them.
 
 It's important to **treat these people as friends and mentors**. I'll talk about why its important in a second.
 
