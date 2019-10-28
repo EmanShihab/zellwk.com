@@ -23,7 +23,7 @@ Because mentors don't have to be people.
 
 **The best mentors when you're starting out are books and courses.**
 
-Why? Because people their pour time and energy into making books and courses. And you can get a lot more from reading their books and courses than from talking to the person who made the book or course.
+Why? Because people pour their time and energy into making books and courses. And you can get a lot more from reading their books and courses than from talking to the person who made the book or course.
 
 You always want to begin with a book or a course.
 
